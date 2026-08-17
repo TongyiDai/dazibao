@@ -1,0 +1,4 @@
+interface:
+  display_name: "大字报"
+  short_description: "大字报风格的蓝米双色超大字飞书画板与云文档总结工具"
+  default_prompt: "Use $dazibao to turn this conclusion into a high-contrast Feishu whiteboard poster or a four-board document summary."

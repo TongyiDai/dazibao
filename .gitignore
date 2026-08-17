@@ -1,0 +1,4 @@
+# Local render previews
+*.png
+*.html
+.DS_Store

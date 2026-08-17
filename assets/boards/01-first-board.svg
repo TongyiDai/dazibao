@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="960" viewBox="0 0 1680 960">
+  <rect width="1680" height="960" fill="#fdf0e0"/>
+  <rect x="70" y="70" width="1540" height="174" fill="#375dfe"/>
+  <text x="122" y="150" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="68" font-weight="800">分享链接，先让读者看懂</text>
+  <text x="122" y="205" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="28">标题后的第一块，承担整篇云文档的主旨摘要</text>
+
+  <rect x="90" y="346" width="404" height="300" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="138" y="418" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="24" font-weight="700">文档标题</text>
+  <text x="138" y="495" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="46" font-weight="800">先确认主题</text>
+  <line x1="138" y1="548" x2="446" y2="548" stroke="#1a2240" stroke-width="3"/>
+  <text x="138" y="600" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="26">读者知道在看什么</text>
+
+  <line x1="526" y1="496" x2="618" y2="496" stroke="#2741c0" stroke-width="6"/>
+  <polyline points="594,474 620,496 594,518" fill="none" stroke="#2741c0" stroke-width="6"/>
+
+  <rect x="656" y="314" width="510" height="364" fill="#375dfe" stroke="#1a2240" stroke-width="4"/>
+  <text x="710" y="392" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="26" font-weight="700">01 / 总览锚点</text>
+  <text x="710" y="476" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="52" font-weight="800">一句话说清主旨</text>
+  <text x="710" y="552" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="28">对象 · 核心判断 · 证据线索</text>
+  <text x="710" y="608" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="28">下一步落点</text>
+
+  <line x1="1198" y1="496" x2="1290" y2="496" stroke="#2741c0" stroke-width="6"/>
+  <polyline points="1266,474 1292,496 1266,518" fill="none" stroke="#2741c0" stroke-width="6"/>
+
+  <rect x="1330" y="346" width="260" height="300" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="1378" y="418" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="24" font-weight="700">正文详情</text>
+  <text x="1378" y="500" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="36" font-weight="800">证据</text>
+  <text x="1378" y="558" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="36" font-weight="800">解释</text>
+  <text x="1378" y="616" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="36" font-weight="800">边界</text>
+
+  <rect x="90" y="758" width="1500" height="104" fill="#fdf0e0" stroke="#2741c0" stroke-width="4"/>
+  <text x="138" y="824" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="700">首张画板必须自洽：只看它，也能复述整篇文档的主旨。</text>
+</svg>

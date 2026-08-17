@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="960" viewBox="0 0 1680 960">
+  <rect width="1680" height="960" fill="#fdf0e0"/>
+  <rect x="70" y="70" width="1540" height="160" fill="#375dfe"/>
+  <text x="122" y="150" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="68" font-weight="800">画板跟着正文走</text>
+  <text x="122" y="200" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="28">每张图都贴着它解释的主题，读者不会迷路</text>
+
+  <line x1="240" y1="326" x2="240" y2="812" stroke="#2741c0" stroke-width="6"/>
+  <circle cx="240" cy="342" r="15" fill="#375dfe"/>
+  <circle cx="240" cy="478" r="15" fill="#375dfe"/>
+  <circle cx="240" cy="614" r="15" fill="#375dfe"/>
+  <circle cx="240" cy="750" r="15" fill="#375dfe"/>
+
+  <rect x="330" y="292" width="470" height="100" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="378" y="354" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="32" font-weight="800">云文档标题</text>
+  <rect x="330" y="428" width="470" height="100" fill="#375dfe" stroke="#1a2240" stroke-width="4"/>
+  <text x="378" y="490" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="32" font-weight="800">01 总览锚点</text>
+  <rect x="330" y="564" width="470" height="100" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="378" y="626" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="32" font-weight="800">正文：证据与背景</text>
+  <rect x="330" y="700" width="470" height="100" fill="#375dfe" stroke="#1a2240" stroke-width="4"/>
+  <text x="378" y="762" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="32" font-weight="800">02 证据地图</text>
+
+  <line x1="842" y1="478" x2="1004" y2="478" stroke="#2741c0" stroke-width="6"/>
+  <polyline points="980,456 1008,478 980,500" fill="none" stroke="#2741c0" stroke-width="6"/>
+  <line x1="842" y1="750" x2="1004" y2="750" stroke="#2741c0" stroke-width="6"/>
+  <polyline points="980,728 1008,750 980,772" fill="none" stroke="#2741c0" stroke-width="6"/>
+
+  <rect x="1052" y="358" width="538" height="244" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="1100" y="430" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="800">02–04 继续贴着主题插入</text>
+  <text x="1100" y="492" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">判断段 → 03 状态判断</text>
+  <text x="1100" y="544" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">行动段 → 04 行动落点</text>
+
+  <rect x="1052" y="662" width="538" height="138" fill="#375dfe" stroke="#1a2240" stroke-width="4"/>
+  <text x="1100" y="720" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="28" font-weight="800">正文保留完整证据、链接和边界</text>
+  <text x="1100" y="768" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="25">画板负责精要，正文负责展开</text>
+</svg>
