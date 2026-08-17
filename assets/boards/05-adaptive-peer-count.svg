@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="1200" viewBox="0 0 1680 1200">
+  <rect width="1680" height="1200" fill="#fdf0e0"/>
+  <rect x="70" y="70" width="1540" height="160" fill="#375dfe"/>
+  <text x="122" y="150" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="68" font-weight="800">数量改变，规则不变</text>
+  <text x="122" y="200" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="28">先判语义，再用等规格卡片；空间不足时回排，不压缩尾项</text>
+
+  <rect x="90" y="260" width="1500" height="140" fill="#ffffff" stroke="#2741c0" stroke-width="4"/>
+  <text x="140" y="340" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="32" font-weight="800">同级元素：同尺寸、同安全区、同基线；数量只决定网格与回排方式</text>
+
+  <rect x="90" y="430" width="280" height="150" fill="#375dfe" stroke="#1a2240" stroke-width="4"/>
+  <text x="140" y="515" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="42" font-weight="800">3 项</text>
+  <rect x="475" y="430" width="320" height="150" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="525" y="515" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="800">动机 01</text>
+  <rect x="835" y="430" width="320" height="150" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="885" y="515" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="800">动机 02</text>
+  <rect x="1195" y="430" width="320" height="150" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="1245" y="515" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="800">动机 03</text>
+
+  <rect x="90" y="620" width="280" height="150" fill="#375dfe" stroke="#1a2240" stroke-width="4"/>
+  <text x="140" y="705" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="42" font-weight="800">4 项</text>
+  <rect x="430" y="620" width="260" height="150" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="480" y="705" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="800">动机 01</text>
+  <rect x="730" y="620" width="260" height="150" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="780" y="705" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="800">动机 02</text>
+  <rect x="1030" y="620" width="260" height="150" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="1080" y="705" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="800">动机 03</text>
+  <rect x="1330" y="620" width="260" height="150" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="1380" y="705" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="800">动机 04</text>
+
+  <rect x="90" y="810" width="280" height="320" fill="#375dfe" stroke="#1a2240" stroke-width="4"/>
+  <text x="140" y="900" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="42" font-weight="800">5 项</text>
+  <text x="140" y="970" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="28" font-weight="700">3 + 2 居中回排</text>
+  <rect x="580" y="810" width="260" height="150" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="630" y="895" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="800">动机 01</text>
+  <rect x="880" y="810" width="260" height="150" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="930" y="895" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="800">动机 02</text>
+  <rect x="1180" y="810" width="260" height="150" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="1230" y="895" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="800">动机 03</text>
+  <rect x="730" y="980" width="260" height="150" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="780" y="1065" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="800">动机 04</text>
+  <rect x="1030" y="980" width="260" height="150" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="1080" y="1065" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="800">动机 05</text>
+</svg>
