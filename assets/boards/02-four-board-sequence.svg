@@ -4,42 +4,43 @@
   <text x="122" y="150" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="68" font-weight="800">四张画板，各自完成一件事</text>
   <text x="122" y="200" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="28">默认 4 张；只有 3 个独立阅读任务时收敛为 3 张</text>
 
-  <rect x="90" y="326" width="330" height="358" fill="#375dfe" stroke="#1a2240" stroke-width="4"/>
-  <text x="138" y="398" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="26" font-weight="700">01</text>
-  <text x="138" y="480" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="42" font-weight="800">总览锚点</text>
-  <text x="138" y="548" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">对象</text>
-  <text x="138" y="596" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">核心判断</text>
-  <text x="138" y="644" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">下一步</text>
+  <rect x="90" y="326" width="352" height="358" fill="#375dfe" stroke="#1a2240" stroke-width="4"/>
+  <text x="140" y="406" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="26" font-weight="700">01</text>
+  <text x="140" y="480" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="42" font-weight="800">总览锚点</text>
+  <text x="140" y="540" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">对象</text>
+  <text x="140" y="586" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">核心判断</text>
+  <text x="140" y="632" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">下一步</text>
 
-  <line x1="448" y1="505" x2="510" y2="505" stroke="#2741c0" stroke-width="5"/>
-  <polyline points="490,484 514,505 490,526" fill="none" stroke="#2741c0" stroke-width="5"/>
+  <line x1="448" y1="505" x2="458" y2="505" stroke="#2741c0" stroke-width="5"/>
+  <polyline points="448,493 462,505 448,517" fill="none" stroke="#2741c0" stroke-width="5"/>
 
-  <rect x="542" y="326" width="330" height="358" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
-  <text x="590" y="398" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="26" font-weight="700">02</text>
-  <text x="590" y="480" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="42" font-weight="800">证据地图</text>
-  <text x="590" y="548" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">来源</text>
-  <text x="590" y="596" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">行为信号</text>
-  <text x="590" y="644" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">指向</text>
+  <rect x="472" y="326" width="352" height="358" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="522" y="406" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="26" font-weight="700">02</text>
+  <text x="522" y="480" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="42" font-weight="800">证据地图</text>
+  <text x="522" y="540" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">来源</text>
+  <text x="522" y="586" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">行为信号</text>
+  <text x="522" y="632" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">指向</text>
 
-  <line x1="900" y1="505" x2="962" y2="505" stroke="#2741c0" stroke-width="5"/>
-  <polyline points="942,484 966,505 942,526" fill="none" stroke="#2741c0" stroke-width="5"/>
+  <line x1="830" y1="505" x2="840" y2="505" stroke="#2741c0" stroke-width="5"/>
+  <polyline points="830,493 844,505 830,517" fill="none" stroke="#2741c0" stroke-width="5"/>
 
-  <rect x="994" y="326" width="330" height="358" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
-  <text x="1042" y="398" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="26" font-weight="700">03</text>
-  <text x="1042" y="480" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="42" font-weight="800">状态判断</text>
-  <text x="1042" y="548" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">当前强弱</text>
-  <text x="1042" y="596" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">转折</text>
-  <text x="1042" y="644" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">待确认</text>
+  <rect x="854" y="326" width="352" height="358" fill="#ffffff" stroke="#1a2240" stroke-width="4"/>
+  <text x="904" y="406" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="26" font-weight="700">03</text>
+  <text x="904" y="480" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="42" font-weight="800">状态判断</text>
+  <text x="904" y="540" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">当前强弱</text>
+  <text x="904" y="586" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">转折</text>
+  <text x="904" y="632" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">待确认</text>
 
-  <line x1="1352" y1="505" x2="1414" y2="505" stroke="#2741c0" stroke-width="5"/>
-  <polyline points="1394,484 1418,505 1394,526" fill="none" stroke="#2741c0" stroke-width="5"/>
+  <line x1="1212" y1="505" x2="1222" y2="505" stroke="#2741c0" stroke-width="5"/>
+  <polyline points="1212,493 1226,505 1212,517" fill="none" stroke="#2741c0" stroke-width="5"/>
 
-  <rect x="1446" y="326" width="144" height="358" fill="#375dfe" stroke="#1a2240" stroke-width="4"/>
-  <text x="1490" y="398" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="26" font-weight="700">04</text>
-  <text x="1490" y="500" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="34" font-weight="800">行动</text>
-  <text x="1490" y="556" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">场景</text>
-  <text x="1490" y="604" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">验收</text>
+  <rect x="1236" y="326" width="352" height="358" fill="#375dfe" stroke="#1a2240" stroke-width="4"/>
+  <text x="1286" y="406" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="26" font-weight="700">04</text>
+  <text x="1286" y="480" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="42" font-weight="800">行动落点</text>
+  <text x="1286" y="540" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">真实场景</text>
+  <text x="1286" y="586" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">具体动作</text>
+  <text x="1286" y="632" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="27">验收触发</text>
 
   <rect x="90" y="758" width="1500" height="104" fill="#ffffff" stroke="#2741c0" stroke-width="4"/>
-  <text x="138" y="824" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="700">顺序就是阅读逻辑：先给主旨，再让证据、判断和行动各就各位。</text>
+  <text x="140" y="824" fill="#1a2240" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="30" font-weight="700">顺序就是阅读逻辑：先给主旨，再让证据、判断和行动各就各位。</text>
 </svg>
