@@ -1,6 +1,6 @@
 > “Good design makes a product understandable.” — Dieter Rams, [Ten Principles for Good Design](https://tenprinciples.design/)
 
-# 大字报
+<h1 align="center">大字报</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agent%20Skill-agentskills.io-2F6BFF" alt="Agent Skill">
